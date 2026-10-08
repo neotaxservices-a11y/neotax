@@ -1,0 +1,6 @@
+{
+  "name":"practicedesk-pro","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0","test":"node --test tests/*.test.mjs"},
+  "dependencies":{"@supabase/supabase-js":"^2.57.0","jspdf":"^3.0.1"},
+  "devDependencies":{"vite":"^7.1.0"},"engines":{"node":">=20"}
+}
